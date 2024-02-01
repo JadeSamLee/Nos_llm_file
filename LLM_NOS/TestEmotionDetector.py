@@ -34,6 +34,8 @@ def detect_emotion(frame, emotion_model):
         emotion_data.append((timestamp, emotion_label))
 
         cv2.putText(frame, emotion_label, (x+5, y-20), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 0), 2, cv2.LINE_AA)
+        
+        break
 
 def detect_humans(frame):
     human_cascade = cv2.CascadeClassifier('haarcascades/haarcascade_upperbody.xml')
