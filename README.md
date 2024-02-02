@@ -7,7 +7,7 @@ Welcome to our cutting-edge project that combines the power of Vision Transforme
 ## Table of Contents
 
 - [Vision Transformer (ViT)](#vision-transformer)
-- [Augmented Convolutional Neural Network (CNN)](#augmented-cnn)
+- [Convolutional Neural Network (CNN)](#augmented-cnn)
 - [Polygon Referral System](#polygon-referral-system)
 - [Next.js Framework Implementation](#nextjs-framework-implementation)
 - [Installation](#installation)
@@ -16,9 +16,9 @@ Welcome to our cutting-edge project that combines the power of Vision Transforme
 
 Our project leverages the Vision Transformer architecture, a revolutionary approach to computer vision that replaces traditional convolutional layers with self-attention mechanisms. ViT has demonstrated state-of-the-art performance on various image classification tasks, making it a powerful choice for image analysis.
 
-## Augmented Convolutional Neural Network (CNN)
+## Convolutional Neural Network (CNN)
 
-In conjunction with ViT, we have implemented an Augmented CNN to enhance the feature extraction capabilities of the model. This combination results in a robust and versatile neural network that excels in understanding complex visual patterns.
+In conjunction with ViT, we have implemented a CNN to enhance the feature extraction capabilities of the model. This combination results in a robust and versatile neural network that excels in understanding complex visual patterns.
 
 ## Polygon Referral System
 
